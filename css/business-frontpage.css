@@ -244,7 +244,12 @@ div .carousel-caption{
   width: 90%;
 }
 
-
+.vid{
+  height: 480px;
+  width: 640px;
+  margin-top: 5%;
+  
+}
 /* #carousel-caption1 {
   top: auto;
   bottom: 0;
@@ -391,6 +396,11 @@ div .carousel-caption{
     margin-right: auto;
     margin-bottom: -10%;
     width: 90%;
+}
+
+.vid{
+  height: 280px;
+  width: 340px;
 }
   div .carousel-caption{
     top: 0;
